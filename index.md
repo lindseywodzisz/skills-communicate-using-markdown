@@ -3,6 +3,6 @@
 ```{r}
 paste("Welcome Witches and Wizards!")
 ```
-- [ ] Unload the at Hogsmeade Station
+- [ ] Unload at Hogsmeade Station
 - [ ] Thestral carriages to school grounds
 - [ ] Gather in the Great Hall for opening ceremonies
